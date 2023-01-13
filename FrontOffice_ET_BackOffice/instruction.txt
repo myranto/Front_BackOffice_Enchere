@@ -1,0 +1,14 @@
+--ny front cote web dia mizara roa:
+    -cote admin na backOffice
+    -cote client na front office
+
+taches :
+    .Implementer les pages html dans chaque cotee respectives(admin et client)
+dans le project react
+    .pages encore statique
+
+    .dans le package common se trouve les login
+        -ny admin sy client samy manana login (donc mitovy ny page de login anzareo)
+        -otrzay koa ny inscription
+
+ARAHO NY STRUCTURE ANLE IZY
