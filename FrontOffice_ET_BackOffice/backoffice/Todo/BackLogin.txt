@@ -1,0 +1,11 @@
+back a faire dans react (tsy mila web service):
+    -login :
+        .function se connecter(en tant que login)
+    -base a utiliser : mongoDB
+        table : Admin:
+                -id
+                -username
+                -email
+                -mdp
+                -tel
+    le front login no apesaina
